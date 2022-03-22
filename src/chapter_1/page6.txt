@@ -1,2 +1,2 @@
-today is a hard work day
-don't be lazy
+today is a hard work day.
+don't be lazy.
